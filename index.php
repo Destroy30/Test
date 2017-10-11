@@ -4,4 +4,6 @@ echo "Hello wold!";
 
 echo "way!";
 
+echo "lala!";
+
 ?>
